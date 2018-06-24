@@ -1,0 +1,24 @@
+MACHINE
+  NCounter
+  
+CONSTANTS
+  N
+PROPERTIES
+  N : NATURAL &
+  N = 512
+VARIABLES
+  x
+
+INVARIANT
+  x : NATURAL &
+  x <= N
+
+INITIALISATION
+  x := 0
+
+OPERATIONS
+  inc = BEGIN x := x + 1 END
+
+END
+
+  
