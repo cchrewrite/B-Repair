@@ -1,4 +1,4 @@
-// Config: CART, Scale = [e^-9,e^-2], Num_Tree = 256
+// Config: CART, Number of Groups of Trees = 256, Scope of Maximum Variances = [e^-9,e^-2]
 
 MACHINE NDiningPhil
 CONCRETE_CONSTANTS

@@ -1,4 +1,4 @@
-// Config: NumTree = 64, Scope = [e^-9,e^-2]
+// Config: CART, Number of Groups of Trees = 64, Scope of Maximum Variances = [e^-9,e^-2]
 
 MACHINE NCounter
 CONCRETE_CONSTANTS

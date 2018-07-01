@@ -1,3 +1,4 @@
+// Config: ResNet, Depth of Residual Blocks = 5, Dimensionality of Residual Blocks = 64, Learning Rate = 2^-7, Number of Training Epochs = 1000
 
 MACHINE CourseManagementSystem
 SETS /* enumerated */
